@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://computingthings.github.io/blog/</id>
+    <title>Computing Things</title>
+    <updated>2015-12-02T01:26:06Z</updated>
+    <link href="http://computingthings.github.io/blog/index.atom" rel="self" />
+    <link href="http://computingthings.github.io/blog/" rel="alternate" />
+    <generator version="0.060">Statocles</generator>
+    <entry>
+        <id>http://computingthings.github.io/blog/2015/12/01/first-post/</id>
+        <title>New Web!</title>
+        <link href="http://computingthings.github.io/blog/2015/12/01/first-post/" rel="alternate" />
+        <content type="html"><![CDATA[
+            <h3>New Web based on Statocles</h3>
+
+                <p><a href="http://computingthings.github.io/blog/2015/12/01/first-post/#section-2">Continue reading...</a></p>
+            <p>Tags:
+            </p>
+        ]]></content>
+        <updated>2015-12-01T00:00:00Z</updated>
+    </entry>
+</feed>
+
