@@ -5,7 +5,7 @@
         <link>http://computingthings.github.io/blog/</link>
         <atom:link href="http://computingthings.github.io/blog/index.rss" rel="self" type="application/rss+xml" />
         <description>Blog feed of Computing Things</description>
-        <generator>Statocles 0.060</generator>
+        <generator>Statocles 0.093</generator>
         <item>
             <title>New Web!</title>
             <link>http://computingthings.github.io/blog/2015/12/01/first-post/</link>
