@@ -39,6 +39,8 @@ site:
         # title: This is the title of the site, shown in the <title> tag
         title: 'Computing Things'
 
+        templates:
+            layout.html: 'site/layout.html'
         # base_url: This is the base URL the site will be deployed to. It
         # should be a full URL, and may contain a path, like:
         #
